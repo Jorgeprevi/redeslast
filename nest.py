@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import random
 import math
 import powerlaw             # generador power law
+from tqdm import tqdm       # barra de estado
 N=50
 medidas=10000
 
